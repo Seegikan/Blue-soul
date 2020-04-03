@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 4adadff4f1e8e3d4397b1ef1bde2acde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7916276644202412878
+    second: Archivo_personaje_0
+  - first:
+      213: -6116197814544578745
+    second: Archivo_personaje_1
+  - first:
+      213: -6455759988321795388
+    second: Archivo_personaje_2
+  - first:
+      213: -5735351506812754961
+    second: Archivo_personaje_3
+  - first:
+      213: -158982417549869640
+    second: Archivo_personaje_4
+  - first:
+      213: -511672202187298488
+    second: Archivo_personaje_5
+  - first:
+      213: -1073350775537280231
+    second: Archivo_personaje_6
+  - first:
+      213: -2325641641466616514
+    second: Archivo_personaje_7
+  - first:
+      213: -7982458606181768461
+    second: Archivo_personaje_8
+  - first:
+      213: 4146463827097198529
+    second: Archivo_personaje_9
+  - first:
+      213: -2150653219562405285
+    second: Archivo_personaje_10
+  - first:
+      213: 5911795884709987259
+    second: Archivo_personaje_11
+  - first:
+      213: 1899194407764340008
+    second: Archivo_personaje_12
+  - first:
+      213: 2706711897517403652
+    second: Archivo_personaje_13
+  - first:
+      213: 674835128447638839
+    second: Archivo_personaje_14
+  - first:
+      213: -5199446064973830956
+    second: Archivo_personaje_15
+  - first:
+      213: -1591361472276698528
+    second: Archivo_personaje_16
+  - first:
+      213: -416313354951001114
+    second: Archivo_personaje_17
+  - first:
+      213: -6803002824195520444
+    second: Archivo_personaje_18
+  - first:
+      213: 8095619988251316750
+    second: Archivo_personaje_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archivo_personaje_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 669
+        width: 298
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40896955cb32290800000000000000
+      internalID: -7916276644202412878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 677
+        width: 398
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747cc002e76ee1ba0800000000000000
+      internalID: -6116197814544578745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_2
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 672
+        width: 383
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c246e4ae788866a0800000000000000
+      internalID: -6455759988321795388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_3
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 681
+        width: 322
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3ac661130f760b0800000000000000
+      internalID: -5735351506812754961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 657
+        width: 341
+        height: 423
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd3864655e2bcdf0800000000000000
+      internalID: -158982417549869640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_5
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 716
+        width: 373
+        height: 368
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8492f23d7dc26e8f0800000000000000
+      internalID: -511672202187298488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_6
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 709
+        width: 384
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd5b01821ba11f0800000000000000
+      internalID: -1073350775537280231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_7
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 511
+        width: 343
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35a685bf39a9bfd0800000000000000
+      internalID: -2325641641466616514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_8
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 669
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a648c03c983190800000000000000
+      internalID: -7982458606181768461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_9
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 660
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf9220c1e23b8930800000000000000
+      internalID: 4146463827097198529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 160
+        width: 299
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52ceec9a485722e0800000000000000
+      internalID: -2150653219562405285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 176
+        width: 384
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb341ccf80bea0250800000000000000
+      internalID: 5911795884709987259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_12
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 182
+        width: 374
+        height: 369
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82da332604b4b5a10800000000000000
+      internalID: 1899194407764340008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_13
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 124
+        width: 343
+        height: 424
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e29d8412c209520800000000000000
+      internalID: 2706711897517403652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_14
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 146
+        width: 321
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d931159fe7d5900800000000000000
+      internalID: 674835128447638839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_15
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 139
+        width: 384
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ae6c0a5bd7d7b0800000000000000
+      internalID: -5199446064973830956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_16
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 145
+        width: 395
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a64bf1c295ae9e0800000000000000
+      internalID: -1591361472276698528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_17
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 129
+        width: 342
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebf4ea9535f83af0800000000000000
+      internalID: -416313354951001114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_18
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 135
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c8d9a9f0e691a0800000000000000
+      internalID: -6803002824195520444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archivo_personaje_19
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 127
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029544ac7b695070800000000000000
+      internalID: 8095619988251316750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
